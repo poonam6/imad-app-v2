@@ -10,7 +10,7 @@ app.get('/', function (req, res) {
 });
 
 app.get('/article-one', function (req, res) {
-  res_send('article one will be here Greetings!!!We are hiring NET developers & senior developers who can join us in 15 to 20 days');
+  res_send('article one will be here ');
 });
 
 app.get('/ui/style.css', function (req, res) {
